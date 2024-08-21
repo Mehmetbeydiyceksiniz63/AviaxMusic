@@ -1,4 +1,5 @@
-# ENJOY FUCKERS
+# ATLEAST GIVE CREDITS IF YOU STEALING :(((((((((((((((((((((((((((((((((((((
+# ELSE NO FURTHER PUBLIC THUMBNAIL UPDATES
 
 import random
 import logging
